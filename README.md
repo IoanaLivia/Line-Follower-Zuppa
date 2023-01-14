@@ -1,2 +1,2 @@
-# Line-Follower
+# IntroductionToRobotics: Line Follower
 IntroductionToRobotics: Final Project 
